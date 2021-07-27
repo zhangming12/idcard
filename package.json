@@ -1,0 +1,22 @@
+{
+  "name": "idcard",
+  "version": "0.0.1",
+  "description": "身份证处理(格式校验、信息获取)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangming12/idcard.git"
+  },
+  "keywords": [
+    "身份证"
+  ],
+  "author": "zhangming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangming12/idcard/issues"
+  },
+  "homepage": "https://github.com/zhangming12/idcard#readme"
+}
